@@ -9,3 +9,6 @@ Some larger area maps displayed icons so small and were simply hard to see - Map
 WF Items linked in chat by anyone can now be right clicked to automatically open the world map to show the location of the linked item.
 
 Various performance and QoL tweaks.
+
+6/9/2026 7:00pm Hotfix: 
+Fixed World Map Zooming bug that caused map to glitch outside frame and become unusable after remaining in game for extended periods of time.
