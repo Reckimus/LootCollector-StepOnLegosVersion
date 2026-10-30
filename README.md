@@ -17,6 +17,9 @@ Fixed World Map Zooming bug that caused map to glitch outside frame and become u
 
 
 Patchnotes going forward:
+
+
+
 v2.2.2 various bug fixes - Mostly a "Player X Not Found" Chat error caused by addon syncing across various LC versions 
 
 
