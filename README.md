@@ -12,4 +12,5 @@ Various performance and QoL tweaks.
 
 6/9/2026 7:00pm Hotfix: 
 Fixed World Map Zooming bug that caused map to glitch outside frame and become unusable after remaining in game for extended periods of time.
+10-29-26: Minor Fixes and additional QoL Tracking options.
 Credits to the Original creator of the base version SzlyerAddons and forkers like ERitzman (ERitzman/LootCollector) and mmobrain (mmobrain/LootCollector), for making it possible.
