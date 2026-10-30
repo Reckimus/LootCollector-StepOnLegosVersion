@@ -12,3 +12,4 @@ Various performance and QoL tweaks.
 
 6/9/2026 7:00pm Hotfix: 
 Fixed World Map Zooming bug that caused map to glitch outside frame and become unusable after remaining in game for extended periods of time.
+Credits to the Original creator of the base version SzlyerAddons and forkers like ERitzman (ERitzman/LootCollector) and mmobrain (mmobrain/LootCollector), for making it possible.
