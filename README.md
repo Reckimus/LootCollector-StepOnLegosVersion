@@ -23,6 +23,7 @@ Patchnotes going forward:
 v2.2.2 various bug fixes - Mostly a "Player X Not Found" Chat error caused by addon syncing across various LC versions 
 
 
+v2.3.5 Fixed missing jewelry options in WF filter menu
 
 
 Credits to the Original creator of the base version SzlyerAddons and forkers like ERitzman (ERitzman/LootCollector) and mmobrain (mmobrain/LootCollector), for making it possible.
