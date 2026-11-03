@@ -1,5 +1,9 @@
 # LootCollector – StepOnLegos Edition
+IMPORTANT!!!: IF YOU ARE UPDATING FROM A PREVIOUS VERSION OF THIS ADDON, YOU MUST DELETE THE ADDON FROM YOU ADDONS FOLDER COMPLETELY BEFORE DROPPING THESE 4 NEW FOLDERS INTO YOUR ADDONS FOLDER.
 ### LootCollector for Ascension, Just Better.
+
+To install: Download and extract the 4 folders from the zip file to your \Conquest Reborn\Interface\AddOns folder
+
 
 A collection of improvements and quality-of-life features built on the original LootCollector addon. The goal is simple: make finding, tracking, and sharing Worldforged items easier without getting in the way of actually playing the game.
 
